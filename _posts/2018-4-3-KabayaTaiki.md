@@ -9,14 +9,11 @@ title: 職務経歴書
   <p>氏名: 蒲谷　大樹（カバヤ　タイキ）</p>
   <p>Qiita ユーザーid: loverails</p>
 
-  <p>最近以下の記事を書きました</p>
-  <p>reduxの代わりにreactのnew Context APIを使おう</p>
-
   <h1>経歴（概要）</h1>
-  <p>大阪大学生物科学科に7位入学</p>
+  <p>2014年度 大阪大学生物科学科に7位入学</p>
   <p>シェアウィズでアルバイトを開始</p>
   <p>大阪大学中退</p>
-  <p>株式会社tinkで</p>
+  <p>株式会社tinkでios、androidアプリを開発、UXを徹底的に改善し続け、プッシュ通知を実装</p>
   <h1>業務外活動</h1>
   <h2>Qiitaへの投稿</h2>
   <p>主にReactNativeの記事をQiitaに上げる</p>
@@ -27,7 +24,7 @@ title: 職務経歴書
   <h2>ReactNative</h2>
   <p>実務で1年ほど経験。</p>
   <p>がっつり業務で使ったものは、redux, redux-observable, rxjs, redux-thunk, redux-persist, Flow, storybook, react-native-firebase</p>
-  <p>並並ならぬ情熱をReactNativeに注いでおり</p>
+  <p>並並ならぬ情熱をReactNativeに注いでおりUXに詳しい</p>
   <h2>Rails</h2>
   <p>Rails4, 5を経験。実務ではjbuilderでのAPIの構築を経験。</p>
   <p></p>
