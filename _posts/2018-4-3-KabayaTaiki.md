@@ -7,6 +7,7 @@ title: 職務経歴書
   <p>2018年4月3日</p>
   <h1>個人データ</h1>
   <p>氏名: 蒲谷　大樹（カバヤ　タイキ）</p>
+  <p>メールアドレス: kabaya.dori@gmail.com</p>
   <p>Qiita ユーザーid: loverails</p>
   <p>最近書いた記事は</p>
   <a href="https://qiita.com/loverails/items/50126e874b24ff984471">「React v16で実装された new Context APIを使って、Reduxへ別れを告げる」</a>
@@ -14,7 +15,7 @@ title: 職務経歴書
 
   <h1>経歴（概要）</h1>
   <p>2013年 大阪大学生物科学科に7位入学</p>
-  <p>2016年 シェアウィズでReactNativeで開発</p>
+  <p>2017年 シェアウィズでReactNativeで開発</p>
   <p>2017年 大阪大学中退</p>
   <p>2017年 株式会社tinkでios、androidアプリとAPIを開発、UXを徹底的に改善し続け、プッシュ通知、エラー追跡機能などを実装</p>
   <p>帰国子女であることを活かし、ReactNativeの英語記事を翻訳しチームに還元</p>
