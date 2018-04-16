@@ -7,6 +7,7 @@ title: 職務経歴書
   <p>2018年4月3日</p>
   <h1>個人データ</h1>
   <p>氏名: 蒲谷　大樹（カバヤ　タイキ）</p>
+  <p>ReactNativeエンジニア、グローズハッカー</p>
   <p>メールアドレス: kabaya.dori@gmail.com</p>
   <p>Qiita ユーザーid: loverails</p>
   <p>最近書いた記事は</p>
